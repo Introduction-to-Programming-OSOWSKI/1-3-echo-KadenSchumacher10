@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def echo(a, b):
+    return a * x
+print(echo("goober" , 5))
